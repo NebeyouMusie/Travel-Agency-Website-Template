@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Travel Agency Website Template
 
 ## Project info
 
